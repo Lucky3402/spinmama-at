@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://spinmama-at.pages.dev/sitemap.xml
+Sitemap: https://spinmama-at-1a5.pages.dev/sitemap.xml
